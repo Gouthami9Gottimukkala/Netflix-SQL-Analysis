@@ -186,7 +186,7 @@ FROM (
 ) AS categorized_content
 GROUP BY 1,2
 ORDER BY 2
-
+Delete Solutions.sql to update project structure
 
 
 
