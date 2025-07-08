@@ -39,7 +39,7 @@ CREATE TABLE netflix
 );
 ```
 
-## Business Problems and Solutions
+## SQL Project – Business Problems and Their Solutions
 
 ### 1. Count the Number of Movies vs TV Shows
 
