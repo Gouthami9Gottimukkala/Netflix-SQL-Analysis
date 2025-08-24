@@ -88,8 +88,10 @@ SQL-based analysis of the Netflix dataset reveals important trends in content di
 
 - **netflix.csv** → Dataset file  
 - **Emblem.png** → Logo file  
-- **netflix_queries.sql** → SQL schema + queries  
-- **README.md** → Documentation  
+- **Netflix_Business_Case_Questions.sql** → Contains 15 business/analytical questions  
+- **Netflix_Table_Schema.sql** → Database schema and data loading script  
+- **netflix_queries.sql** → SQL queries for analysis and insights  
+- **README.md** → Project documentation  
 
 ## 👤 Author
 
