@@ -43,13 +43,14 @@ The dataset is imported into a MySQL table named `netflix` with the following sc
 | description | Brief summary or description of content  |
 
 ## ⚙️ Usage Instructions
-### 1. Create the database and table
-Run the provided SQL script:
-    SOURCE netflix_queries.sql;
-### 2. Load Data
+1. **Create the database and table**
+ Run the provided SQL script:  
+   ```sql
+   SOURCE netflix_queries.sql;
+2. **Load Data**
 The script uses LOAD DATA INFILE to import the dataset (netflix.csv).
 Make sure the file path in the query matches your MySQL environment.
-### 3. Run Queries
+3. **Run Queries**
 The script includes queries such as:
 - Count Movies vs TV Shows
 - Most common ratings per type
@@ -83,14 +84,12 @@ SQL-based analysis of the Netflix dataset reveals important trends in content di
 - Permission to use LOAD DATA INFILE for CSV import
 - Basic SQL knowledge
 
-## 📂 File Structure
-Netflix-SQL-Analysis/  
-│── netflix.csv          # Dataset file  
-│── Emblem.png           # Logo file  
-│── netflix_queries.sql  # SQL schema + queries  
-│── README.md            # Documentation  
- 
+## 📂 File Structure  
 
+- **netflix.csv** → Dataset file  
+- **Emblem.png** → Logo file  
+- **netflix_queries.sql** → SQL schema + queries  
+- **README.md** → Documentation  
 
 ## 👤 Author
 
