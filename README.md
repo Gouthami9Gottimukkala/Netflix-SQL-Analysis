@@ -85,9 +85,10 @@ SQL-based analysis of the Netflix dataset reveals important trends in content di
 
 ## 📂 File Structure
 Netflix-SQL-Analysis/  
-│── netflix.csv             # Dataset file  
-│── netflix_queries.sql     # SQL schema + queries  
-│── README.md               # Documentation  
+│── netflix.csv                         # Dataset file 
+│── Emblem.png                          # Logo file  
+│── netflix_queries.sql                 # SQL schema + queries  
+│── README.md                           # Documentation  
 
 
 ## 👤 Author
