@@ -21,7 +21,7 @@ The goal of this project is to perform SQL-based analysis of Netflix content to 
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** [Movies Dataset]([https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://github.com/Gouthami9Gottimukkala/Netflix-SQL-Analysis/blob/157ba9224189e651727bbfa7046c4c4f3863d7cb/netflix.csv))
+- **Dataset Link:** [Movies Dataset](https://github.com/Gouthami9Gottimukkala/Netflix-SQL-Analysis/blob/157ba9224189e651727bbfa7046c4c4f3863d7cb/netflix.csv)
 
 ## Dataset Description
 
